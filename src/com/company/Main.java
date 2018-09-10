@@ -11,7 +11,7 @@ public class Main {
        String a =  nameReader.nextLine();
        System.out.println("What is your last name?");
        String b = nameReader.nextLine();
-       System.out.println("Your full name is " + a + b + ".");
+       System.out.println("Your full name is " + a + " " + b + ".");
 
 
 
